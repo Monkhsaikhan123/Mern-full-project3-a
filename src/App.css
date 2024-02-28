@@ -1,0 +1,19 @@
+body{
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+}
+
+.container{
+  margin-top:2rem;
+}
+
+.active{
+  text-decoration: underline;
+  cursor: pointer;
+  font-weight: bold;
+  color:green;
+}
+.heartStar{
+  border-radius:0px 28px 0px 28px;
+}
